@@ -60,7 +60,6 @@ El proyecto contempla los siguientes componentes principales:
 - GitHub
 - Trello
 - Git
-- Eraser
 
 ---
 
